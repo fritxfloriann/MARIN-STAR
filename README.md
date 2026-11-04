@@ -8,3 +8,12 @@ The game is built on the Ren'Py engine. The game is played in first-person persp
 
 The game also contains a save system. Keep in mind, this system is really important because there are a lot of choices and branching present in the game. If you want to take an alternative route, you are recommended to save the game. Auto saves will be added later as the game develops. Auto saves will be activated in every critical moment in the gameplay, which is always in time-sensitive events and quick time events that are prompted. Be sure to save the game once you reach a critical part of the story!
 
+## Copyright & Intellectual Property
+
+This game is an independent proprietary project.
+
+All source code, game assets, artwork, characters, music, audio, story elements, and associated intellectual property are owned by their respective copyright holders.
+
+**Copyright © 2026 Floria Blackthrone and contributing illustrator(s). All Rights Reserved.**
+
+Unauthorized reproduction, redistribution, modification, or commercial use is prohibited without prior written permission.
