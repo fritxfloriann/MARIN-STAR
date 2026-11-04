@@ -1,6 +1,6 @@
 # All Rights Reserved
 
-Copyright © 2026 Floria Anderson. All Rights Reserved.
+Copyright © 2026 Floria Blackthrone. All Rights Reserved.
 
 This project, including its source code, game assets, artwork, audio, music, characters, story, designs, and other associated materials, is protected by copyright.
 
