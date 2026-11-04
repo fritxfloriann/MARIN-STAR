@@ -1,13 +1,22 @@
-# All Rights Reserved
+# PROPRIETARY SOFTWARE — ALL RIGHTS RESERVED
 
-Copyright © 2026 Floria Blackthrone. All Rights Reserved.
+Copyright © 2026 Floria Blackthrone, Andrew Blackthrone, and other contributing volunteer(s).
 
-This project, including its source code, game assets, artwork, audio, music, characters, story, designs, and other associated materials, is protected by copyright.
+All Rights Reserved.
 
-No permission is granted to copy, reproduce, modify, distribute, publish, sublicense, commercially exploit, or create derivative works from any part of this project without prior written permission from the copyright holder.
+This repository and all materials contained within it are proprietary and protected by applicable copyright laws.
 
-Viewing this repository does not grant any rights to use or redistribute its contents.
+This includes, but is not limited to:
 
-The copyright will be available once the soundtrack, character designs, dialogues, and copyright arrangements between me and illustrator are finalized. These factors matter a lot when it comes to game development, publication, and who gets monetized. Generally, the copyright will be split from person to person, as what they've contributed to MARIN★ is what they partially own. While art can be held under their own copyright, the underlying aspects and character are still owned by the author. 
+- Source code and programming logic
+- Game assets, sprites, textures, and artwork
+- Characters, designs, and visual concepts
+- Storylines, dialogue, and written content
+- Music, sound effects, and audio assets
+- Game mechanics and associated documentation
 
-Upon monetization, the payment gets split and distributed to each of the illustrators, editors, music artists, and the author. This is to compensate for their hard work, as they deserve it.
+No part of this project may be copied, reproduced, modified, distributed, published, sublicensed, commercially exploited, or used to create derivative works without prior written permission from the respective copyright holder(s).
+
+Access to this public repository does not constitute a license or grant of permission to use its contents.
+
+All rights are reserved by their respective copyright holders.
