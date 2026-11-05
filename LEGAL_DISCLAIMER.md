@@ -20,3 +20,10 @@ Likewise, the novel's depictions of relationships, sexuality, homophobia, family
 Any legal outcomes, sentences, investigations, immigration decisions, corporate proceedings, or other governmental actions depicted in the novel are fictional and may differ substantially from actual laws, procedures, or outcomes in Japan, the United States, Switzerland, or elsewhere.
 Readers should not rely upon this novel as legal, medical, psychological, financial, immigration, or other professional advice.
 Nothing in this disclaimer is intended to limit any rights or protections provided by applicable law.
+
+The characters, names, organizations, companies, locations, events, legal proceedings, and circumstances depicted in this novel are fictional or have been fictionalized for narrative purposes. Any resemblance to actual persons, living or dead, actual organizations, companies, places, or events is coincidental unless explicitly identified as historical or otherwise factual.
+
+The fictional organizations, corporations, entertainment agencies, law-enforcement investigations, court proceedings, and legal circumstances appearing in this novel are created for the purposes of the story. They should not be interpreted as representations of actual organizations, institutions, companies, legal proceedings, or professional practices.
+References to Japan, the United States, Switzerland, their laws, governments, police agencies, courts, immigration systems, corporations, and other real-world institutions are used within a fictional narrative and may not accurately reflect actual laws, procedures, policies, or practices.
+
+This novel contains fictional depictions of crime, violence, abuse, trauma, mental-health struggles, relationships, and other sensitive subject matter. These elements are included as part of the fictional narrative and are not intended to endorse, justify, or encourage harmful or unlawful conduct.
