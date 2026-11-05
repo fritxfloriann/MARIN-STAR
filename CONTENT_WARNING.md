@@ -16,11 +16,9 @@ The novel includes fictional depictions and references to:
 
 • *LGBTQ+ themes and same-sex relationships*
 
-• *Death and grief*
+• *Death and graphic descriptions*
 
-• *Murder and mass casualty violence*
-
-• *References to a mass-casualty attack and its aftermath*
+• *Homicides and mass killing*
 
 • *References to weapons and violent crime*
 
@@ -46,13 +44,7 @@ The novel includes fictional depictions and references to:
 
 • *Exploitation and manipulation*
 
-• *Child custody disputes and family-court proceedings*
-
 • *Adoption and the effects of childhood trauma*
-
-• *Death of family members and loss of loved ones*
-
-• *Grief following the death of a romantic partner*
 
 • *Survivor's guilt and unresolved guilt surrounding violent acts*
 
