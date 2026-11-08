@@ -61,4 +61,6 @@ MARIN★ explores trauma and the consequences of abuse without presenting violen
 
 **Reader discretion is advised.**
 
-### *MARIN★*
+### *MARIN★ (マリン・スター) by Floria Blackthrone and Andrew Blackthrone.*
+
+*All Rights Reserved*
