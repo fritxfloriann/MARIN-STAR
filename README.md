@@ -23,3 +23,5 @@ All source code, game assets, artwork, characters, music, audio, story elements,
 **Copyright © 2026 Floria Blackthrone and contributing illustrator(s). All Rights Reserved.**
 
 Unauthorized reproduction, redistribution, modification, or commercial use is prohibited without prior written permission.
+
+*All Rights Reserved*
