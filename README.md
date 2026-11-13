@@ -22,6 +22,8 @@ This game is an independent proprietary project.
 
 All source code, game assets, artwork, characters, music, audio, story elements, and associated intellectual property are owned by their respective copyright holders.
 
+If you want more copyright information and legal disclaimers, please refer to `LICENCE.md` and `LEGAL_DISCLAIMER.md`.
+
 **Copyright © 2026 Floria Blackthrone and contributing illustrator(s). All Rights Reserved.**
 
 Unauthorized reproduction, redistribution, modification, or commercial use is prohibited without prior written permission.
