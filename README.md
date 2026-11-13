@@ -14,6 +14,8 @@ The game is built on the Ren'Py engine. The game is played in first-person persp
 
 The game also contains a save system. Keep in mind, this system is really important because there are a lot of choices and branching present in the game. If you want to take an alternative route, you are recommended to save the game. Auto saves will be added later as the game develops. Auto saves will be activated in every critical moment in the gameplay, which is always in time-sensitive events and quick time events that are prompted. Be sure to save the game once you reach a critical part of the story!
 
+Since the game features mature themes and sensitive topics, please read `CONTENT_WARNING.md` before playing the game. While the game can be played by older teens, it is strongly advisable to read the content warning before continuing. If you feel uncomfortable or unsafe while playing, don't hesitate to quit the game and talk with a trusted person, counsellor, therapist, or an emergency number. Remember, your safety is a priority during gameplay.
+
 ## Copyright & Intellectual Property
 
 This game is an independent proprietary project.
