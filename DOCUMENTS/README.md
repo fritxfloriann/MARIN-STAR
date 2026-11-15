@@ -1,3 +1,3 @@
-# DOCUMENT FOLDER
+# DOCUMENTS
 
-This folder contains documents, dialogues, scripts, and summaries of MARIN-STAR.
+This folder contains documents, dialogues, scripts, and summaries of MARIN★ (マリン・スター).
