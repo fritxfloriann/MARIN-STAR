@@ -5,3 +5,5 @@ This folder contains documents, transcripts, dialogues, scripts, and the plot of
 Expect tons of updates to the files present in this folder, as dialogues, transcripts, and lines change. Files will be renamed depending on their version, label, focus, and purpose.
 
 To install the `docx.` files present in this folder, click on the file and click `View raw`, which should automatically download the file. You can find your file in the `Downloads` directory in your File Explorer.
+
+*Subject to copyright*
