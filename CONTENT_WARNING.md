@@ -54,10 +54,12 @@ The novel includes fictional depictions and references to:
 
 • *References to physical injuries and medical emergencies*
 
-Remember, legal topics and information about immigration are not advice. It is strictly fictional with real-world inspiration from real-life laws from official sources.
+Remember, legal topics and information about immigration are not advice. It is strictly fictional, with real-world inspiration from real-life laws from official sources.
 Some of these subjects are central to the novel's themes and may recur throughout the story.
 
 MARIN★ explores trauma and the consequences of abuse without presenting violence or criminal behavior as a solution to suffering. The story intentionally examines the distinction between understanding the circumstances that shape a person and excusing the harm that person causes.
+
+If you know anyone who is struggling with suicidal ideation, self-harm, or mental health matters, don't hesitate to reach out to them to offer support. While MARIN★ is a psychological horror game, these topics can be triggering for people struggling with mental disorders, disabilities, etc.
 
 **Reader discretion is advised.**
 
