@@ -1,3 +1,3 @@
 # DOCUMENTS
 
-This folder contains documents, dialogues, scripts, and summaries of MARIN★.
+This folder contains documents, transcripts, dialogues, scripts, and the plot of MARIN★. 
