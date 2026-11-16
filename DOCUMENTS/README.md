@@ -6,4 +6,4 @@ Expect tons of updates to the files present in this folder, as dialogues, transc
 
 To install the `docx.` files present in this folder, click on the file and click `View raw`, which should automatically download the file. You can find your file in the `Downloads` directory in your File Explorer.
 
-*Subject to copyright*
+*Note: The artwork present in this folder is subject to copyright. All Rights Reserved.*
