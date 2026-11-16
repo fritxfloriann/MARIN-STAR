@@ -1,4 +1,4 @@
-## ARTWORK
+# ARTWORK
 
 This folder contains the artwork for MARIN-STAR.
 
