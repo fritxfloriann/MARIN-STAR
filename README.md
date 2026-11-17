@@ -4,7 +4,7 @@
 
 **Reader discretion is advised.**
 
-MARIN★ is a psychological horror visual novel that explores trauma, identity, consequences, and outliving one's life. At its heart, the story is about trauma, identity, guilt, consequences, love, and the terrifying fact that the truth can outlive the person who tries to outrun it.
+MARIN★ is a psychological horror visual novel that explores trauma, identity, consequences, and outliving one's life. At its heart, the story is about trauma, identity, guilt, consequences, love, and the terrifying fact that the truth can outlive the person who tries to outrun it. You, the player, take the role of Marin Watanabe as you navigate through her world full of turbulence and deception.
 
 Marin Watanabe, an aspiring daughter of the Watanabe family, was taken away from her mother's custody. As she tries to navigate her new life in the United States, her environment is getting increasingly hostile. Will you be able to handle Marin's circumstances and help her? Or will you dig her into a deeper hole?
 
