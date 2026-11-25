@@ -8,6 +8,8 @@ MARIN★ is a psychological horror visual novel that explores trauma, identity, 
 
 Marin Watanabe, an aspiring daughter of the Watanabe family, was taken away from her mother's custody. As she tries to navigate her new life in the United States, her environment is getting increasingly hostile. Will you be able to handle Marin's circumstances and help her? Or will you dig her into a deeper hole?
 
+*Remember, you will play as Marin Watanabe and you will guide her choices and circumstances!*
+
 If you like psychological horror with a heavy contrast, this game is for you! The game features Marin Watanabe as she navigates the dark circumstances that surround her environment and threaten her own future. You, the player, control Marin Watanabe's choices and how she can navigate the world that she is in. Whether it's the canonized version of the story or alternative routes, you can influence Marin's life by making decisions. Remember, each of your decisions impacts her life in multiple aspects. Think wisely before picking a route for Marin.
 
 The choices you make in the game will have a long-lasting impact on how you are perceived. You play as the protagonist, and each decision, choice, and thought you make will influence the present and the future. The past will linger and eventually follow you as consequences. Consequences is not just description of an event, it is what you experience during the story. Think wisely once again before proceeding with the choices you make.
