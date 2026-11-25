@@ -1,6 +1,6 @@
 # DOCUMENTS
 
-This folder contains documents, transcripts, dialogues, scripts, and the plot of MARIN★. The documents in this folder are protected by copyright. This folder serves as a library for the story of MARIN★.
+This folder contains documents, transcripts, dialogues, scripts, and the plot of MARIN★. The documents in this folder are protected by copyright. This folder serves as a library for the story of MARIN★. The original interpretation and files are still subject to copyright. Read `LICENCE.md` for more information.
 
 Expect tons of updates to the files present in this folder, as dialogues, transcripts, and lines change. Files will be renamed depending on their version, label, focus, and purpose.
 
