@@ -2,7 +2,7 @@
 
 This file contains the changelogs for MARIN★. From code changes to new features, all of the new updates will be updated here.
 
-These files serve as the foundation for the game's copyright, disclaimers, updates, and information. These files can be updated at any time. Be sure to stay up to date with the project.
+These updates serve as the foundation for the game's progress, documentation, changes, and information. These files can be updated at any time. Be sure to stay up to date with the project.
 
 ---
 
