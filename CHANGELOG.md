@@ -12,7 +12,11 @@ These updates serve as the foundation for the game's progress, documentation, ch
 
 ### 25/11/26 UPDATE
 
+This update edits the folder's `README.md` and `CHANGELOG.md`.
+
 Updated `DOCUMENTS` folder
+
+Updated `CHANGELOG.md` file
 
 ### 15/11/26 UPDATE
 
