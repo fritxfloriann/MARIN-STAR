@@ -18,6 +18,10 @@ The game also contains a save system. Keep in mind, this system is really import
 
 Since the game features mature themes and sensitive topics, please read `CONTENT_WARNING.md` before playing the game. While the game can be played by older teens, it is strongly advisable to read the content warning before continuing. If you feel uncomfortable or unsafe while playing, don't hesitate to quit the game and talk with a trusted person, counselor, therapist, or an emergency number. Remember, your safety is a priority before, during, and after gameplay.
 
+## HIATUS NOTE
+
+Floria Blackthrone and Andrew Blackthrone are taking a hiatus to focus more on school projects, cope with burnout, and prioritize other important things. This hiatus comes with uncertainty as there is no planned end date on the horizon. While the project is in a halt, you can still wait for the release of MARIN★ (マリン・スター).
+
 ### Copyright & Intellectual Property
 
 This game is an independent proprietary project.
