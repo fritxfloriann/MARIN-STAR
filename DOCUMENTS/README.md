@@ -2,7 +2,7 @@
 
 This folder contains documents, transcripts, dialogues, scripts, and the plot of MARIN★. The documents in this folder are protected by copyright. This folder serves as a library for the story of MARIN★. The original interpretation and files are still subject to copyright. Read `LICENCE.md` for more information.
 
-Expect tons of updates to the files present in this folder, as dialogues, transcripts, and lines change. Files will be renamed depending on their version, label, focus, and purpose.
+Expect tons of updates to the files present in this folder, as dialogues, transcripts, and lines change. Files will be renamed, modified, edited, or removed depending on their version, label, focus, and purpose. Changes in dialogue can also impact development, game dialogue, user experience, and scenes.
 
 There are two file types available in this folder: `docx.` and `.txt` files are available to download. We recommend downloading the `docx.` file if you want the document locally. The `.txt` file is designed for the document to be readable on GitHub.
 
