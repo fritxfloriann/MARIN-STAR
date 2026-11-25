@@ -6,7 +6,7 @@ These updates serve as the foundation for the game's progress, documentation, ch
 
 ---
 
-*The changelog counts new updates upon its creation.*
+*The changelog counts new updates starting from its file creation.*
 
 **[ OLDEST TO NEWEST ]**
 
