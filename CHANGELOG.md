@@ -8,6 +8,10 @@ These updates serve as the foundation for the game's progress, documentation, ch
 
 **[ OLDEST TO NEWEST ]**
 
+### 25/11/26 UPDATE
+
+Updated `DOCUMENTS` folder
+
 ### 15/11/26 UPDATE
 
 A new folder named `DOCUMENTS` has been added to MARIN★ to put the written material for the story. Here are the following changes:
