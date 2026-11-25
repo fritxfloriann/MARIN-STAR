@@ -6,6 +6,8 @@ These updates serve as the foundation for the game's progress, documentation, ch
 
 ---
 
+*The changelog counts new updates upon its creation.*
+
 **[ OLDEST TO NEWEST ]**
 
 ### 25/11/26 UPDATE
